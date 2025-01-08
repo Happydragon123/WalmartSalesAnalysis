@@ -3,6 +3,10 @@
 ## Project Overview
 
 This project provides an end-to-end data analysis solution that extracts valuable business insights from Walmart sales data. It leverages Python Pandas for data processing and analysis, SQL for advanced querying, and structured problem-solving methods to address key business questions, as well as a visualization made in Tableau to support business decisions.
+
+![Project Pipeline](https://github.com/Happydragon123/WalmartSalesAnalysis/blob/main/Top%205%20Performing%20Stores%20by%20Profit%20Margin.png)
+![Project Pipeline](https://github.com/Happydragon123/WalmartSalesAnalysis/blob/main/Total%20Items%20per%20Payment%20Method.png)
+![Project Pipeline](https://github.com/Happydragon123/WalmartSalesAnalysis/blob/main/Total%20Purchases%20Throughout%20the%20Day.png)
 ---
 
 ## Project Steps
